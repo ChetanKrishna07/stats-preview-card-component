@@ -74,6 +74,10 @@ header {
   color: hsl(0, 0%, 100%);
   font-size: 20px;
 }
+.count:hover {
+  color: hsl(277, 64%, 61%);
+  font-size: 20px;
+}
 .insights {
   color: hsl(277, 64%, 61%);
 }
